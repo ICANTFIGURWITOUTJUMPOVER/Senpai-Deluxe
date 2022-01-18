@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				100,
+				100
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "idle",
+			"loop": false,
+			"name": "deluxe spirit Idle"
+		},
+		{
+			"offsets": [
+				100,
+				100
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singUP",
+			"loop": false,
+			"name": "deluxe spirit Up"
+		},
+		{
+			"offsets": [
+				100,
+				100
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "deluxe spirit Right"
+		},
+		{
+			"offsets": [
+				100,
+				100
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "deluxe spirit Down"
+		},
+		{
+			"offsets": [
+				100,
+				100
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "deluxe spirit Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Deluxe_Spirit",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "spirit-deluxe",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		60,
+		110
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
