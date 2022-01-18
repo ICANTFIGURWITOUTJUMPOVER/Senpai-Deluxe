@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="deluxe angry senpai.png"><SubTexture name="deluxe angry senpai Idle0000" x="0" y="0" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe angry senpai Idle0001" x="612" y="0" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe angry senpai Idle0002" x="1224" y="0" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe angry senpai Idle0003" x="1836" y="0" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe angry senpai Idle0004" x="0" y="920" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe angry senpai Idle0005" x="612" y="920" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe angry senpai Left0000" x="1224" y="920" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe angry senpai Left0001" x="1836" y="920" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe angry senpai Right0000" x="0" y="1840" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe angry senpai Right0001" x="612" y="1840" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe angry senpai Up0000" x="1224" y="1840" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe angry senpai Up0001" x="1836" y="1840" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe angry senpai Down0000" x="0" y="2760" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe angry senpai Down0001" x="612" y="2760" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+</TextureAtlas>

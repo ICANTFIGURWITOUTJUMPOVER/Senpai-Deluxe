@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="deluxe senpai.png"><SubTexture name="deluxe senpai Idle0000" x="0" y="0" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe senpai Idle0001" x="612" y="0" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe senpai Idle0002" x="1224" y="0" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe senpai Idle0003" x="1836" y="0" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe senpai Idle0004" x="0" y="920" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe senpai Idle0005" x="612" y="920" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe senpai Left0000" x="1224" y="920" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe senpai Left0001" x="1836" y="920" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe senpai Right0000" x="0" y="1840" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe senpai Right0001" x="612" y="1840" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe senpai Up0000" x="1224" y="1840" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe senpai Up0001" x="1836" y="1840" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe senpai Down0000" x="0" y="2760" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+<SubTexture name="deluxe senpai Down0001" x="612" y="2760" width="612" height="920" frameX="0" frameY="0" frameWidth="612" frameHeight="920" />
+</TextureAtlas>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="deluxe spirit.png"><SubTexture name="deluxe spirit Idle0000" x="0" y="0" width="910" height="1004" frameX="0" frameY="0" frameWidth="910" frameHeight="1004" />
+<SubTexture name="deluxe spirit Idle0001" x="910" y="0" width="910" height="1004" frameX="0" frameY="0" frameWidth="910" frameHeight="1004" />
+<SubTexture name="deluxe spirit Idle0002" x="1820" y="0" width="910" height="1004" frameX="0" frameY="0" frameWidth="910" frameHeight="1004" />
+<SubTexture name="deluxe spirit Idle0003" x="2730" y="0" width="910" height="1004" frameX="0" frameY="0" frameWidth="910" frameHeight="1004" />
+<SubTexture name="deluxe spirit Idle0004" x="0" y="1004" width="910" height="1004" frameX="0" frameY="0" frameWidth="910" frameHeight="1004" />
+<SubTexture name="deluxe spirit Idle0005" x="910" y="1004" width="910" height="1004" frameX="0" frameY="0" frameWidth="910" frameHeight="1004" />
+<SubTexture name="deluxe spirit Idle0006" x="1820" y="1004" width="910" height="1004" frameX="0" frameY="0" frameWidth="910" frameHeight="1004" />
+<SubTexture name="deluxe spirit Idle0007" x="2730" y="1004" width="910" height="1004" frameX="0" frameY="0" frameWidth="910" frameHeight="1004" />
+<SubTexture name="deluxe spirit Left0000" x="0" y="2008" width="910" height="1004" frameX="0" frameY="0" frameWidth="910" frameHeight="1004" />
+<SubTexture name="deluxe spirit Left0001" x="910" y="2008" width="910" height="1004" frameX="0" frameY="0" frameWidth="910" frameHeight="1004" />
+<SubTexture name="deluxe spirit Right0000" x="1820" y="2008" width="910" height="1004" frameX="0" frameY="0" frameWidth="910" frameHeight="1004" />
+<SubTexture name="deluxe spirit Right0001" x="2730" y="2008" width="910" height="1004" frameX="0" frameY="0" frameWidth="910" frameHeight="1004" />
+<SubTexture name="deluxe spirit Up0000" x="0" y="3012" width="910" height="1004" frameX="0" frameY="0" frameWidth="910" frameHeight="1004" />
+<SubTexture name="deluxe spirit Up0001" x="910" y="3012" width="910" height="1004" frameX="0" frameY="0" frameWidth="910" frameHeight="1004" />
+<SubTexture name="deluxe spirit Down0000" x="1820" y="3012" width="910" height="1004" frameX="0" frameY="0" frameWidth="910" frameHeight="1004" />
+<SubTexture name="deluxe spirit Down0001" x="2730" y="3012" width="910" height="1004" frameX="0" frameY="0" frameWidth="910" frameHeight="1004" />
+</TextureAtlas>
