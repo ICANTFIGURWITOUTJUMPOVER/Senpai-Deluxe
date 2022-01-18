@@ -17,5 +17,8 @@ gf-pixel
 senpai
 senpai-angry
 spirit
+senpai-deluxe
+senpai-angry-deluxe
+spirit-deluxe
 bf-pixel-opponent
 pico-player
